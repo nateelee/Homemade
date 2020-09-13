@@ -22,6 +22,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "Something's cooking..."
+    "description": "A currently work-in-progress Expo and React Native eCommerce platform app. Tools utilized include Xcode and node packages such as @react-navigation, react-native, and expo. Fintech APIs such as Paypal and Stripe will soon be implemented."
   }
 }
